@@ -18,7 +18,7 @@
     to right bottom,
         rgba(#ab1821, 0.486),
         rgba(0, 217, 255, 0.308)),
-    url('../../assets/moon-landscape-2.jpg')no-repeat center center;
+    url('../assets/moon-landscape-2.jpg')no-repeat center center;
     margin-top: -10rem;
     // we skewed in the other direction to compensate for its parent skewY, in order to align it
     // horizontally
@@ -62,7 +62,7 @@
     background-image: linear-gradient(105deg,
     rgba($color-white,.9) 0%,
     rgba($color-white,.9) 50%,
-    transparent 50%) ,url(../../assets/form-galaxy.jpg);
+    transparent 50%) ,url(../assets/form-galaxy.jpg);
     background-size: 100%;
     border-radius: 3px;
     box-shadow: 0 1.5rem 4rem rgba($color-black,.2);
@@ -71,7 +71,7 @@
     background-image: linear-gradient(105deg,
     rgba($color-white,.9) 0%,
     rgba($color-white,.9) 65%,
-    transparent 65%) ,url(../../assets/form-galaxy.jpg);
+    transparent 65%) ,url(../assets/form-galaxy.jpg);
     background-size: cover;
     border-radius: 3px;
     box-shadow: 0 1.5rem 4rem rgba($color-black,.2);
@@ -83,7 +83,7 @@
      background-image: linear-gradient(to right,
     rgba($color-white,.9) 0%,
     rgba($color-white,.9) 100%),
-    url(../../assets/form-galaxy.jpg);
+    url(../assets/form-galaxy.jpg);
     
         
     }
